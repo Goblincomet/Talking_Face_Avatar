@@ -55,7 +55,6 @@ Here Some Recources :[ElevenLabs Youtube Video](https://www.youtube.com/watch?v=
 
 or you can use APIs [ElevenLabs API Guide](https://api.elevenlabs.io/docs) 
 
-[ElevenLabs Python Repo](https://github.com/lugia19/elevenlabslib)
 
 
 <table class="center">
