@@ -121,7 +121,7 @@ https://github.com/saba99/Talking_Face_Avatar/assets/33378412/1f78eb67-cc76-4c9a
 
 2. Creating the env and install the requirements.
   ```bash
-  git clone https://github.com/saba99/Talking_Face_Avatar.git
+  git clone https://github.com/Goblincomet/Talking_Face_Avatar
 
   cd SadTalker 
 
