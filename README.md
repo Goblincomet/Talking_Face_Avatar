@@ -142,7 +142,7 @@ https://github.com/saba99/Talking_Face_Avatar/assets/33378412/1f78eb67-cc76-4c9a
 ### UI + API:
   look at index.html 
 
-![Screenshot (4899)](https://github.com/saba99/Talking_Face_Avatar/assets/33378412/f922a6e8-38da-4b2a-b339-7a689dc33bc9) 
+![Screenshot (4899)](https://github.com/Goblincomet/Talking_Face_Avatar/assets/33378412/f922a6e8-38da-4b2a-b339-7a689dc33bc9) 
 
 
 ## 📥 2. Download Trained Models.
